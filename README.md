@@ -1,2 +1,2 @@
 # RockPaperScissors
-easy game on sockets
+basic game to test sockets in python
